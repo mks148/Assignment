@@ -1,0 +1,15 @@
+image-slider {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    padding-left: 16.5em;
+}
+
+.image-slider img {
+    position: absolute;
+    border: 1px solid #f0f0f0;
+    border-bottom: 5px solid #ccc;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
